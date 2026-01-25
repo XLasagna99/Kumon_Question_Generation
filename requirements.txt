@@ -7,3 +7,6 @@ tiktoken
 requests
 beautifulsoup4
 python-dotenv
+dotenv
+pydantic
+openai

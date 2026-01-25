@@ -1,4 +1,15 @@
 def generate_random_math_question():
+    """
+    Generate the backbone equation of the questionm, through random number generation.
+    
+    Output:
+    {
+        "operation": str,
+        "a": int,
+        "b": int,
+        "answer": int
+    }
+    """
     import random
 
     operations = ['+', '-', '*', '/']
