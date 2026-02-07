@@ -1,12 +1,14 @@
-langchain
 langchain-community
-langchain-openai
+langchain-chroma==0.1.4
+langchain-core==0.3.15
+langchain-openai==0.2.6
+langchain-text-splitters==0.3.2
 faiss-cpu
 chromadb
 tiktoken
 requests
 beautifulsoup4
-python-dotenv
+python-dotenv==1.0.1
 dotenv
 pydantic
 openai
