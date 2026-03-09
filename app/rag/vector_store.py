@@ -73,7 +73,7 @@ def get_or_create_collection(name, metadata = None):
     )
 
 
-def get_collection(name: str):
+def get_collection(name):
     """
     Retrieve an existing collection.
     """
@@ -100,7 +100,7 @@ def get_topic_registry():
     )
 
 
-def register_topic(topic: str, collection_name: str, source_count: int):
+def register_topic(topic, collection_name, source_count):
     """
     Register a topic in the registry.
     """
@@ -118,7 +118,7 @@ def register_topic(topic: str, collection_name: str, source_count: int):
     )
 
 
-def topic_exists(topic: str, similarity_threshold: float = 0.82):
+def topic_exists(topic, similarity_threshold= 0.82):
     """
     Checks if a topic already exists in the registry.
     Returns collection name if found.

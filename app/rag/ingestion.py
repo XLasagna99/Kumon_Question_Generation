@@ -3,6 +3,7 @@ from langchain_text_splitters import CharacterTextSplitter, RecursiveCharacterTe
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
+from vector_store import *
 
 # load in the .env variables
 load_dotenv()
@@ -20,34 +21,35 @@ def rag_document_ingestion(textfile):
     )
 
     # Create Documents (Chunks) From File
-    texts = text_splitter.create_documents([document])
-    return texts
+    chunks = text_splitter.create_documents([document])
+    ids = [f"chunk_{i}" for i in range(len(chunks))]
+    metadata = [{"topic": "football"} for _ in chunks]
 
+    return chunks, ids, metadata
 
-def vector_store_name_detection(topic):
-    """Generate Vector Store name based on topic."""
-    vector_store_name = topic.lower().replace(" ", "_") + "_knowledge_base"
-    return vector_store_name
-
-def vector_store_creation_based_on_extrapolated_topic(texts):
-    """Create a Vector Store and persist it based on the determined topic of the read text"""
-
-
-def vector_store_ingestion(texts, vector_store_name):
+def vector_store_ingestion(topic, chunks, ids, metadata, vector_store_name):
     """Ingest documents into Vector Store."""
     # Initialize OpenAI Embeddings
     embeddings = OpenAIEmbeddings(
         model=str(os.getenv("TEXT_EMBEDDING_MODEL")),
         api_key=str(os.getenv("API_KEY"))
     )
-
-    # Initialize ChromaDB as Vector Store
-    vector_store = Chroma(
-        collection_name=vector_store_name,
-        embedding_function=embeddings,
-        persist_directory=f"./app/data/seed_context/{vector_store_name}"
-    )
-
+    
+    # Check that vector store related to topic exists
+    vector_store = get_chroma_client()
+    topic_in_registry = topic_exists(topic)
+    if topic_in_registry:
+        print(f"Topic '{topic}' already exists in registry. Using existing collection.")
+        relevant_collection = get_collection(topic_in_registry)
+        
+    else:
+        print(f"Topic '{topic}' not found in registry. Creating new collection.")
+        relevant_collection = get_or_create_collection(vector_store_name)
+        register_topic(topic, vector_store_name, len(chunks))
     # Add Documents to Vector Store
-    vector_store.add_documents(texts)
-    return vector_store
+    relevant_collection.add_documents(
+        chunks, 
+        ids=ids, 
+        metadatas=metadata
+    )
+    return relevant_collection
