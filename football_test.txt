@@ -1,0 +1,449 @@
+## Introduction to Football
+
+Football (known as soccer in some countries) is the most widely played and watched sport in the world. The game is played between two teams of eleven players on a rectangular field with a goal at each end. The primary objective is simple: score more goals than the opposing team by moving the ball into the opponent’s goal using any part of the body except the hands or arms (goalkeepers are the only players allowed to use their hands, and only within their penalty area).
+
+Football is popular because it combines strategy, teamwork, physical skill, and continuous action. Matches usually last 90 minutes, divided into two halves of 45 minutes each. The sport is governed internationally by the **International Federation of Association Football (FIFA)**, which organizes major tournaments such as the FIFA World Cup.
+
+Football provides a rich environment for contextual mathematics problems because the game naturally involves counting, comparisons, time intervals, statistics, distances, and probability. Goals, passes, shots, player counts, match times, and league points all create opportunities for arithmetic-based reasoning.
+
+---
+
+## Basic Structure of the Game
+
+A football match is played between two teams, each consisting of **11 players**, making **22 players total** on the field at the start of the match. Each team usually consists of:
+
+* 1 goalkeeper
+* 4 defenders
+* 3–5 midfielders
+* 1–3 forwards
+
+These numbers vary depending on the tactical formation chosen by the coach.
+
+The match is played on a field called a **pitch**, which typically measures about **100–110 meters long** and **64–75 meters wide**. At each end of the pitch is a rectangular goal consisting of two vertical posts and a horizontal crossbar.
+
+The game begins with a **kick-off**, where one team starts with the ball in the center circle. The ball is passed between teammates as players attempt to advance it toward the opponent’s goal while defending against attacks from the other team.
+
+---
+
+## Scoring Goals
+
+A **goal** is scored when the entire ball crosses the goal line between the posts and under the crossbar.
+
+For example, if a team scores:
+
+* 1 goal in the first half
+* 2 goals in the second half
+
+then their total goals in the match would be **3 goals**.
+
+Goals are the central metric of success in football matches. Teams often track:
+
+* Total goals scored in a match
+* Goals scored in each half
+* Goals scored by individual players
+
+Because goals are relatively rare compared to many sports, each one has significant impact on the outcome of the game.
+
+---
+
+## Match Timing
+
+A standard football match lasts **90 minutes**, divided into two halves:
+
+* First half: 45 minutes
+* Second half: 45 minutes
+
+Between the halves there is a **15-minute halftime break**.
+
+However, matches often include **extra time added by the referee**, known as **stoppage time** or **injury time**, to compensate for interruptions such as injuries, substitutions, or time wasting.
+
+For example:
+
+* First half: 45 minutes + 3 minutes stoppage time = 48 minutes total
+* Second half: 45 minutes + 4 minutes stoppage time = 49 minutes total
+
+Total playing time in this example would be **97 minutes**.
+
+This timing structure creates opportunities for time-based mathematics problems, such as calculating total play time or remaining minutes in a match.
+
+---
+
+## Player Positions
+
+Each player on a football team has a specific role.
+
+### Goalkeeper
+
+The goalkeeper protects the goal and prevents the opposing team from scoring. They can use their hands inside their penalty area. Goalkeepers often make saves by catching, blocking, or deflecting the ball.
+
+Example quantitative context:
+
+If a goalkeeper faces **10 shots** during a match and saves **8**, then **2 goals** were conceded.
+
+---
+
+### Defenders
+
+Defenders are responsible for stopping the opposing team from reaching the goal. Common defensive positions include:
+
+* Center backs
+* Full backs
+* Wing backs
+
+Defenders often intercept passes, block shots, and clear the ball away from danger.
+
+Example numerical context:
+
+If a defender makes **5 interceptions** in the first half and **4 interceptions** in the second half, they made **9 interceptions total**.
+
+---
+
+### Midfielders
+
+Midfielders link defense and attack. They often run the most during a match and are responsible for distributing the ball to teammates.
+
+Types of midfielders include:
+
+* Defensive midfielders
+* Central midfielders
+* Attacking midfielders
+* Wide midfielders
+
+Midfielders frequently accumulate statistics such as:
+
+* Passes completed
+* Chances created
+* Assists
+
+Example arithmetic context:
+
+If a midfielder completes **35 passes in the first half** and **40 passes in the second half**, they completed **75 passes total**.
+
+---
+
+### Forwards
+
+Forwards are primarily responsible for scoring goals. They play closest to the opponent’s goal and attempt to convert scoring opportunities.
+
+Typical forward roles include:
+
+* Striker
+* Second striker
+* Winger
+
+Example mathematical scenario:
+
+If a striker takes **6 shots** during a match and **3 of them are on target**, then **half of their shots were on target**.
+
+---
+
+## Passing and Possession
+
+Teams move the ball around the field through **passes** between players. Maintaining possession of the ball is often a key strategy.
+
+Teams frequently track statistics such as:
+
+* Total passes
+* Completed passes
+* Pass accuracy percentage
+
+Example:
+
+If a team attempts **200 passes** and successfully completes **160**, their pass accuracy is calculated as:
+
+160 completed passes out of 200 attempts.
+
+This provides opportunities for arithmetic and percentage-based questions.
+
+---
+
+## Shots and Scoring Opportunities
+
+Teams create scoring chances by taking **shots** at the opponent’s goal.
+
+Shots can be categorized as:
+
+* Shots on target
+* Shots off target
+* Blocked shots
+
+Example:
+
+If a team takes **12 shots** during a match and **5 are on target**, then **7 shots were not on target**.
+
+Tracking shots provides useful context for counting and comparison questions.
+
+---
+
+## Fouls and Free Kicks
+
+A **foul** occurs when a player breaks the rules, such as tripping or pushing an opponent. When a foul occurs, the opposing team is awarded a **free kick**.
+
+Example:
+
+If Team A commits **7 fouls in the first half** and **5 fouls in the second half**, then they committed **12 fouls total**.
+
+Some fouls lead to disciplinary cards.
+
+---
+
+## Yellow and Red Cards
+
+Referees enforce discipline using cards.
+
+### Yellow Card
+
+A yellow card is a warning for misconduct.
+
+Example:
+
+If a team receives **2 yellow cards in the first half** and **1 yellow card in the second half**, they received **3 yellow cards total**.
+
+---
+
+### Red Card
+
+A red card results in a player being sent off. The team must continue with **one fewer player**.
+
+Example:
+
+If a team starts with **11 players** and one player receives a red card, the team continues with **10 players**.
+
+---
+
+## Substitutions
+
+Teams are allowed to replace players during a match. In many competitions, teams can make **up to 5 substitutions**.
+
+Example:
+
+If a team makes:
+
+* 2 substitutions at halftime
+* 2 substitutions in the 60th minute
+* 1 substitution in the 80th minute
+
+then they have used **all 5 substitutions**.
+
+Substitution numbers can easily support arithmetic-based problems.
+
+---
+
+## Football Formations
+
+Teams organize players into formations. Some common formations include:
+
+* 4–4–2
+* 4–3–3
+* 3–5–2
+
+For example, a **4–3–3 formation** means:
+
+* 4 defenders
+* 3 midfielders
+* 3 forwards
+
+Total players: 10 outfield players plus 1 goalkeeper = **11 players**.
+
+Formation structures provide simple numerical relationships useful for educational math contexts.
+
+---
+
+## League Competitions
+
+Football is played in leagues where teams compete across a season.
+
+Each match awards points based on the result:
+
+* Win = **3 points**
+* Draw = **1 point**
+* Loss = **0 points**
+
+Example:
+
+If a team has:
+
+* 10 wins
+* 5 draws
+* 3 losses
+
+Their total points would be calculated as:
+
+10 wins × 3 points = 30 points
+5 draws × 1 point = 5 points
+
+Total points = **35 points**.
+
+League standings are determined by the number of points accumulated during the season.
+
+---
+
+## Season Statistics
+
+Teams track numerous statistics during a season, including:
+
+* Matches played
+* Goals scored
+* Goals conceded
+* Goal difference
+* Points earned
+
+**Goal difference** is calculated as:
+
+Goals scored − Goals conceded.
+
+Example:
+
+If a team scores **40 goals** and concedes **30 goals**, their goal difference is **+10**.
+
+These statistics are ideal for arithmetic problems involving addition and subtraction.
+
+---
+
+## Player Statistics
+
+Individual players accumulate their own statistics during a season.
+
+Common player statistics include:
+
+* Goals scored
+* Assists
+* Shots taken
+* Passes completed
+* Minutes played
+
+Example:
+
+If a striker scores:
+
+* 8 goals in the first half of the season
+* 12 goals in the second half
+
+then they scored **20 goals in total**.
+
+---
+
+## Corners and Set Pieces
+
+A **corner kick** is awarded when the ball crosses the goal line after last touching a defending player.
+
+Example:
+
+If a team wins **4 corner kicks in the first half** and **3 corner kicks in the second half**, they had **7 corner kicks total**.
+
+Set pieces such as corners and free kicks are frequent and provide useful numerical contexts.
+
+---
+
+## Distance and Movement
+
+Football players cover significant distances during matches.
+
+Typical values include:
+
+* Midfielders: around **10–12 kilometers per match**
+* Defenders: around **8–10 kilometers**
+* Forwards: around **9–11 kilometers**
+
+Example:
+
+If a midfielder runs **5 kilometers in the first half** and **6 kilometers in the second half**, they ran **11 kilometers total**.
+
+Distance-based scenarios create opportunities for addition and comparison problems.
+
+---
+
+## Tournament Formats
+
+Many football tournaments use **group stages** followed by **knockout rounds**.
+
+For example:
+
+* 4 teams in a group
+* Each team plays the other 3 teams
+
+This means each team plays **3 matches** in the group stage.
+
+If a group has 4 teams, the total number of matches played in the group is **6 matches**.
+
+Tournament structures provide strong numerical relationships suitable for problem generation.
+
+---
+
+## Example Mathematical Contexts in Football
+
+Football situations naturally translate into arithmetic problems. Some typical contexts include:
+
+### Goal Counting
+
+A team scores:
+
+* 2 goals in the first half
+* 1 goal in the second half
+
+Total goals = 3.
+
+---
+
+### Match Statistics
+
+A team takes:
+
+* 5 shots in the first half
+* 7 shots in the second half
+
+Total shots = 12.
+
+---
+
+### League Points
+
+A team wins:
+
+* 4 matches
+* draws 2 matches
+
+Points = (4 × 3) + (2 × 1) = 14 points.
+
+---
+
+### Player Performance
+
+A player scores:
+
+* 3 goals in one match
+* 2 goals in another match
+
+Total goals = 5.
+
+---
+
+## Why Football Works Well for Math Question Generation
+
+Football provides a wide range of numerical elements that make it ideal for generating mathematics problems that feel realistic and meaningful. These elements include:
+
+* Counting goals
+* Summing match statistics
+* Comparing team performances
+* Tracking points across seasons
+* Calculating totals across halves of a match
+* Measuring distances run by players
+
+Because the sport involves repeated actions and structured rules, the numerical patterns are easy for an AI system to transform into arithmetic questions involving addition, subtraction, multiplication, or division.
+
+For example, football scenarios can easily generate questions such as:
+
+* counting goals
+* adding statistics across halves
+* calculating league points
+* determining totals across matches
+
+This contextual grounding helps learners engage with mathematics through familiar sports situations.
+
+---
+
+## Conclusion
+
+Football is a globally popular sport built on clear rules, measurable actions, and structured gameplay. Teams compete by scoring goals, defending their goal, and accumulating points across matches and seasons. The sport naturally produces many quantitative statistics, including goals, passes, shots, distances, fouls, and points.
+
+Because of these measurable aspects, football serves as an excellent domain for contextual mathematics questions. Arithmetic concepts such as addition, subtraction, multiplication, and division can easily be embedded within realistic football scenarios, allowing learners to practice mathematics in a familiar and engaging context.

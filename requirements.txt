@@ -12,3 +12,5 @@ python-dotenv==1.0.1
 dotenv
 pydantic
 openai
+sentence-transformers
+posthog<6
