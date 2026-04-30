@@ -1,0 +1,783 @@
+{
+  "topic": "Fortnite",
+  "summary": "Fortnite is an online video game where players are dropped onto an island and must battle against each other to be the last one standing. Aspects of the game such as V-Bucks currency, building defenses, and power-ups can be used to understand various arithmetic concepts. With its rich lore and continual updates, it provides several contexts for constructing interesting word problems. Fortnite is an online video game where players compete against each other to be the last one standing. It is rich in contextual mathematical topics including V-Bucks currency, building defenses and various power-ups to understand different arithmetic concepts. P...",
+  "source_references": [
+    {
+      "source_id": 1,
+      "title": "How to play Fortnite for absolute beginners | GamesRadar+",
+      "url": "https://www.gamesradar.com/how-to-play-fortnite/"
+    },
+    {
+      "source_id": 2,
+      "title": "A Beginner's Guide to Fortnite: 12 Tips for Your First Match | PCMag",
+      "url": "https://www.pcmag.com/how-to/a-beginners-guide-to-fortnite-12-tips-for-your-first-match"
+    },
+    {
+      "source_id": 3,
+      "title": "How To - Fortnite Battle Royale Beginners Guide: 5 Basic Tips to Getting Started | Tom's Hardware Forum",
+      "url": "https://forums.tomshardware.com/threads/fortnite-battle-royale-beginners-guide-5-basic-tips-to-getting-started.3277309/"
+    },
+    {
+      "source_id": 4,
+      "title": "What do I need to know about Fortnite? A guide for parents and carers | Childnet",
+      "url": "https://www.childnet.com/blog/what-do-i-need-to-know-about-fortnite-a-guide-for-parents-and-carers/"
+    },
+    {
+      "source_id": 5,
+      "title": "Fortnite Slang Explained: Guide to Fortnite Terms & Terminology (2025)",
+      "url": "https://senet.cloud/blog/fortnite-slang"
+    },
+    {
+      "source_id": 6,
+      "title": "Common Fortnite terms and their meanings",
+      "url": "https://dotesports.com/fortnite/news/common-fortnite-terms-and-their-meanings"
+    },
+    {
+      "source_id": 7,
+      "title": "Fortnite Creative Glossary | Fortnite Documentation | Epic Developer Community",
+      "url": "https://dev.epicgames.com/documentation/fortnite/fortnite-creative-glossary"
+    },
+    {
+      "source_id": 8,
+      "title": "Game jargon - Fortnite | British Esports Federation",
+      "url": "https://britishesports.org/the-hub/about-esports/game-jargon-fortnite/"
+    },
+    {
+      "source_id": 9,
+      "title": "Fortnite Statistics: From Victory Royale to Stats Galore",
+      "url": "https://www.crossrivertherapy.com/research/fortnite-statistics"
+    },
+    {
+      "source_id": 10,
+      "title": "Fortnite Statistics 2025",
+      "url": "https://sites.google.com/view/fortnitestatistics2025/home/"
+    },
+    {
+      "source_id": 11,
+      "title": "Fortnite Statistics 2026 (Player Count & Revenue)",
+      "url": "https://www.demandsage.com/fortnite-statistics/"
+    },
+    {
+      "source_id": 12,
+      "title": "Fortnite Live Player Count and Statistics (2026)",
+      "url": "https://activeplayer.io/fortnite/"
+    }
+  ],
+  "entities": [
+    {
+      "name": "V-Bucks",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Victory Royale",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        1,
+        10
+      ]
+    },
+    {
+      "name": "Battle Bus",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "name": "Fortnite Map",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        1,
+        10
+      ]
+    },
+    {
+      "name": "Fortnite Season 4",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Fortnite player",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        1,
+        2,
+        3,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Teams of 20",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        2,
+        10
+      ]
+    },
+    {
+      "name": "50 team modes",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        2,
+        10
+      ]
+    },
+    {
+      "name": "PlayStation 4/5",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "name": "PC and Mac",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Android and iOS devices",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "name": "Storm Circle",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        3,
+        10
+      ]
+    },
+    {
+      "name": "Gear",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        3,
+        10
+      ]
+    },
+    {
+      "name": "Weapons",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "name": "Sweat",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "name": "Mini Shield",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "name": "Big Pot",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "name": "Crank 90s",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "name": "W-key",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "name": "One Pump",
+      "type": "",
+      "notes": "",
+      "source_ids": [
+        5
+      ]
+    }
+  ],
+  "actions_events": [],
+  "numeric_quantities": [
+    {
+      "quantity": "",
+      "value_or_range": "",
+      "unit": "V-Bucks",
+      "context": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "quantity": "",
+      "value_or_range": "",
+      "unit": "players",
+      "context": "",
+      "source_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "quantity": "",
+      "value_or_range": "",
+      "unit": "shield points",
+      "context": "",
+      "source_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "quantity": "",
+      "value_or_range": "",
+      "unit": "metres",
+      "context": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "quantity": "",
+      "value_or_range": "",
+      "unit": "seconds",
+      "context": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "quantity": "16",
+      "value_or_range": "",
+      "unit": "players",
+      "context": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "quantity": "20",
+      "value_or_range": "",
+      "unit": "players",
+      "context": "Teams of 20",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "quantity": "50",
+      "value_or_range": "",
+      "unit": "players",
+      "context": "50 team modes",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "quantity": "41",
+      "value_or_range": "",
+      "unit": "GB",
+      "context": "Disk space required for Fortnite",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "quantity": "50",
+      "value_or_range": "",
+      "unit": "shield points",
+      "context": "Big Pot",
+      "source_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "quantity": "25",
+      "value_or_range": "",
+      "unit": "shield points",
+      "context": "Mini Shield",
+      "source_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "quantity": "20",
+      "value_or_range": "",
+      "unit": "damage",
+      "context": "Typical weapon damage",
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "quantity": "2",
+      "value_or_range": "",
+      "unit": "teams",
+      "context": "Minimum number of teams to use team-related features",
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "quantity": "1000",
+      "value_or_range": "",
+      "unit": "minutes",
+      "context": "Gameplay Duration over 96 hours",
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "quantity": "650 million",
+      "value_or_range": "",
+      "unit": "registered users",
+      "context": "Fortnite has over 650 million registered users globally as of 2025",
+      "source_ids": [
+        10
+      ]
+    },
+    {
+      "quantity": "30-40 million",
+      "value_or_range": "",
+      "unit": "daily active users",
+      "context": "Average number of Fortnite's daily active users in 2025",
+      "source_ids": [
+        10
+      ]
+    },
+    {
+      "quantity": "1.15 to 3.5 million",
+      "value_or_range": "",
+      "unit": "concurrent users",
+      "context": "Average concurrent Fortnite users",
+      "source_ids": [
+        10
+      ]
+    },
+    {
+      "quantity": "77",
+      "value_or_range": "",
+      "unit": "%",
+      "context": "Players who did not spend money on Fortnite",
+      "source_ids": [
+        11
+      ]
+    },
+    {
+      "quantity": "126 million",
+      "value_or_range": "",
+      "unit": "players",
+      "context": "Fortnite's peak MAU in 2023",
+      "source_ids": [
+        11
+      ]
+    },
+    {
+      "quantity": "1.3 million",
+      "value_or_range": "",
+      "unit": "players",
+      "context": "Average Daily Active Users in 2026",
+      "source_ids": [
+        11
+      ]
+    }
+  ],
+  "realistic_ranges": [],
+  "constraints": [
+    {
+      "constraint": "A Fortnite match can't have more than 100 players",
+      "why_it_matters": "",
+      "source_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "constraint": "A player can't have more than 1000 V-Bucks",
+      "why_it_matters": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "constraint": "Shield points can't exceed 100",
+      "why_it_matters": "",
+      "source_ids": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "constraint": "A player can't move or perform any action while consuming potions",
+      "why_it_matters": "",
+      "source_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "constraint": "Fortnite requires at least 41GB of disk space",
+      "why_it_matters": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "constraint": "Players must stay within the storm circle to avoid constant damage",
+      "why_it_matters": "",
+      "source_ids": [
+        3,
+        10
+      ]
+    },
+    {
+      "constraint": "Weapons can be temporarily removed from the game in certain seasons",
+      "why_it_matters": "",
+      "source_ids": [
+        6,
+        10
+      ]
+    },
+    {
+      "constraint": "To use team-related features, there must be at least 2 teams",
+      "why_it_matters": "",
+      "source_ids": [
+        7
+      ]
+    }
+  ],
+  "question_worthy_scenarios": [
+    {
+      "scenario": "A player has a certain number of V-Bucks and wants to buy items",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        1,
+        11
+      ]
+    },
+    {
+      "scenario": "A player consumes shield potions to max out their shield points",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "scenario": "A certain number of players are playing in a Fortnite match",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "scenario": "A player builds a defense structure using materials",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "scenario": "Choosing the right device to play Fortnite based on system requirements",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "scenario": "A player needs to stay within a storm circle",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        3
+      ]
+    },
+    {
+      "scenario": "A player needs to estimate whether they can engage an enemy from a current distance",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        3
+      ]
+    },
+    {
+      "scenario": "A competitive player tries to win every match",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "scenario": "A player builds a defense structure using 90s building technique",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        1,
+        6
+      ]
+    },
+    {
+      "scenario": "A player decides whether to engage an enemy based on distance",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        3
+      ]
+    },
+    {
+      "scenario": "Dealing with temporary removal of weapons from the game",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        6
+      ]
+    },
+    {
+      "scenario": "Understanding how many players play Fortnite daily or concurrently",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        10
+      ]
+    },
+    {
+      "scenario": "Estimating popularity growth of Fortnite based on registered users",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        10
+      ]
+    },
+    {
+      "scenario": "Choosing the right device to play Fortnite based on user preferences",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        11
+      ]
+    },
+    {
+      "scenario": "Evaluating the growth of Fortnite based on registered users and daily active users",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        10,
+        11
+      ]
+    },
+    {
+      "scenario": "Understanding the spending habits of Fortnite players",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        11
+      ]
+    }
+  ],
+  "things_to_avoid": [],
+  "glossary": [
+    {
+      "term": "V-Bucks",
+      "definition": "In-game currency used to buy items in Fortnite.",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "term": "Battle Bus",
+      "definition": "Vehicle that drops players onto the Fortnite map at the start of each game.",
+      "source_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "term": "Shield points",
+      "definition": "A sort of protective barrier players can gain through consuming potions.",
+      "source_ids": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "term": "Victory Royale",
+      "definition": "Term for attaining first place in a Fortnite game.",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "term": "Teams of 20",
+      "definition": "A game mode in Fortnite where players group up in teams of 20.",
+      "source_ids": [
+        2,
+        10
+      ]
+    },
+    {
+      "term": "50 team modes",
+      "definition": "A game mode in Fortnite with 50 players per team.",
+      "source_ids": [
+        2,
+        10
+      ]
+    },
+    {
+      "term": "Storm Circle",
+      "definition": "Players need to stay within this circle to avoid damage during the game.",
+      "source_ids": [
+        3,
+        10
+      ]
+    },
+    {
+      "term": "Gear",
+      "definition": "Items found within the game to enhance character abilities.",
+      "source_ids": [
+        3
+      ]
+    },
+    {
+      "term": "Weapons",
+      "definition": "Used by players to engage other players in the game.",
+      "source_ids": [
+        3,
+        5
+      ]
+    },
+    {
+      "term": "Sweat",
+      "definition": "A highly competitive player who tries hard every match.",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "term": "Mini Shield",
+      "definition": "A small shield potion that provides 25 shield per use.",
+      "source_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "term": "Big Pot",
+      "definition": "Slang for a Shield Potion that grants 50 shield points when consumed.",
+      "source_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "term": "Crank 90s",
+      "definition": "Building fast 90-degree structures to gain height advantage.",
+      "source_ids": [
+        5,
+        6
+      ]
+    },
+    {
+      "term": "W-key",
+      "definition": "Aggressively rushing into fights, often involving advancing directly at enemies.",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "term": "One Pump",
+      "definition": "Eliminating an opponent with a single shotgun shot, typically from a powerful weapon.",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "term": "Vaulted",
+      "definition": "Refers to weapons or items that have been temporarily removed from the game.",
+      "source_ids": [
+        6
+      ]
+    },
+    {
+      "term": "Siphon",
+      "definition": "A game mechanic where players gain health and shield upon eliminating enemies.",
+      "source_ids": [
+        6
+      ]
+    },
+    {
+      "term": "DPS",
+      "definition": "Damage per second. A metric to measure the damage dealt by a weapon per second.",
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "term": "MAU",
+      "definition": "Monthly Active Users - a user who has logged in during the last 30 days.",
+      "source_ids": [
+        10,
+        11
+      ]
+    },
+    {
+      "term": "DAU",
+      "definition": "Daily Active Users - a user who logs in on a particular day.",
+      "source_ids": [
+        10,
+        11
+      ]
+    }
+  ]
+}

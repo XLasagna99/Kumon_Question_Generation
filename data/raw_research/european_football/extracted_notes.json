@@ -1,0 +1,619 @@
+{
+  "topic": "European Football",
+  "summary": "European Football, often referred to as soccer in the US, is a popular sport recognized worldwide. It hosts several domestic and international leagues, such as the Champions League and Europa League, featuring powerful football clubs and famous players around the globe. It's a cultural melting point and serves as an exciting sport distinct from American football. European Football, also known as soccer, is governed by the Union of European Football Associations (UEFA), and manages various leagues and competitions, attracting world-class players. It encompasses five major leagues - English Premier League, French Ligue 1, Italian Serie A, Germ...",
+  "source_references": [
+    {
+      "source_id": 1,
+      "title": "Enjoying European Football: A Beginner's Guide for Americans",
+      "url": "https://www.dejaoffice.com/blog/2024/02/28/enjoying-european-football-a-beginners-guide-for-americans/"
+    },
+    {
+      "source_id": 2,
+      "title": "Beginner's guide to European soccer | Sports | laloyolan.com",
+      "url": "https://www.laloyolan.com/sports/beginners-guide-to-european-soccer/article_7f585b4c-fe62-5ccd-a6e9-1026dc65669f.html"
+    },
+    {
+      "source_id": 3,
+      "title": "What is football? The beginner's guide to the beautiful game",
+      "url": "https://thepfsa.co.uk/what-is-football-the-beginners-guide-to-the-beautiful-game/"
+    },
+    {
+      "source_id": 4,
+      "title": "How is European soccer structured with leagues and cup competitions? | World Football FAQ | Bundesliga",
+      "url": "https://www.bundesliga.com/en/faq/what-are-the-rules-and-regulations-of-soccer/how-is-european-soccer-structured-with-leagues-and-cup-competitions-10568"
+    },
+    {
+      "source_id": 5,
+      "title": "Football Terminology - Topend Sports",
+      "url": "https://www.topendsports.com/sport/soccer/terms.htm"
+    },
+    {
+      "source_id": 6,
+      "title": "European League of Football - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/European_League_of_Football"
+    },
+    {
+      "source_id": 7,
+      "title": "About European Leagues",
+      "url": "https://europeanleagues.com/about/"
+    },
+    {
+      "source_id": 8,
+      "title": "European League of Football | ELF Official Site – Teams, Games & News",
+      "url": "https://europeanleague.football/stats/teams/2025"
+    },
+    {
+      "source_id": 9,
+      "title": "Top 10 Advanced Football Metrics: Unveiling Europe’s Best Performers - Soccerment",
+      "url": "https://soccerment.com/top-10-advanced-football-metrics-unveiling-europes-best-performers/"
+    },
+    {
+      "source_id": 10,
+      "title": "Yet Another Approach of Playing Styles and Performance in Europe’s Top 5 Leagues",
+      "url": "https://medium.com/@alf.19x/yet-another-approach-of-playing-styles-and-performance-in-europes-top-5-leagues-87f9960a0c9c"
+    },
+    {
+      "source_id": 11,
+      "title": "10 Essential Football Metrics You Should Know - The PFSA",
+      "url": "https://thepfsa.co.uk/10-essential-football-metrics-you-should-know/"
+    },
+    {
+      "source_id": 12,
+      "title": "[PDF] Estimating High-Probability Win Scenarios in Football:",
+      "url": "https://run.unl.pt/bitstreams/31263786-eb53-4a72-89e9-71a48251b15d/download"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Paris Saint-Germain",
+      "type": "Team",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Ligue 1",
+      "type": "League",
+      "notes": "",
+      "source_ids": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "name": "Lionel Messi",
+      "type": "Player",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "type": "Player",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Neymar Jr.",
+      "type": "Player",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Kylian Mbappe",
+      "type": "Player",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Kevin de Bruyne",
+      "type": "Player",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Andres Iniesta",
+      "type": "Player",
+      "notes": "",
+      "source_ids": [
+        1
+      ]
+    },
+    {
+      "name": "Europa League",
+      "type": "Competition",
+      "notes": "",
+      "source_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "Champions League",
+      "type": "Competition",
+      "notes": "",
+      "source_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "English Premier League",
+      "type": "League",
+      "notes": "",
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "Italian Serie A",
+      "type": "League",
+      "notes": "",
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "German Bundesliga",
+      "type": "League",
+      "notes": "",
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "Spanish La Liga",
+      "type": "League",
+      "notes": "",
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "UEFA",
+      "type": "Organisation",
+      "notes": "Governing body of football in Europe",
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "FIFA",
+      "type": "Organisation",
+      "notes": "Global governing body of football",
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "name": "RB Leipzig",
+      "type": "Team",
+      "notes": "Reached the knockout stages of the UEFA Champions League for the first time in their history in 2019/20.",
+      "source_ids": [
+        4
+      ]
+    },
+    {
+      "name": "Scottish Premiership",
+      "type": "League",
+      "notes": "Consists of only 12 teams playing the first 22 rounds of fixtures against each other.",
+      "source_ids": [
+        4
+      ]
+    },
+    {
+      "name": "Joshua Kimmich",
+      "type": "Player",
+      "notes": "Played every second of his team's 34 Bundesliga games in 2018/19.",
+      "source_ids": [
+        4
+      ]
+    },
+    {
+      "name": "Midfielder",
+      "type": "Position",
+      "notes": "Responsible for linking play between attackers and defenders",
+      "source_ids": [
+        5
+      ]
+    }
+  ],
+  "actions_events": [],
+  "numeric_quantities": [
+    {
+      "quantity": "Points for win",
+      "value_or_range": "",
+      "unit": "points",
+      "context": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "quantity": "Points for draw",
+      "value_or_range": "",
+      "unit": "points",
+      "context": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "quantity": "Length of match",
+      "value_or_range": "90",
+      "unit": "minutes",
+      "context": "",
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "quantity": "No. of players in each team",
+      "value_or_range": "11",
+      "unit": "",
+      "context": "",
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "quantity": "No. of teams in each league",
+      "value_or_range": "18-20",
+      "unit": "",
+      "context": "",
+      "source_ids": [
+        4
+      ]
+    },
+    {
+      "quantity": "No. of matches in a season",
+      "value_or_range": "34-38",
+      "unit": "",
+      "context": "",
+      "source_ids": [
+        4
+      ]
+    },
+    {
+      "quantity": "Penalty Spot Distance",
+      "value_or_range": "12",
+      "unit": "yards",
+      "context": "Distance from the goal line",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "quantity": "Inaugural season of European League of Football",
+      "value_or_range": "2021",
+      "unit": "year",
+      "context": "",
+      "source_ids": [
+        6
+      ]
+    },
+    {
+      "quantity": "No. of clubs in European Leagues",
+      "value_or_range": "1170",
+      "unit": "",
+      "context": "",
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "quantity": "Board Members in European Leagues",
+      "value_or_range": "13",
+      "unit": "",
+      "context": "",
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "quantity": "Madrid Bravos - Total Touchdowns",
+      "value_or_range": "52",
+      "unit": "",
+      "context": "In a single season",
+      "source_ids": [
+        8
+      ]
+    },
+    {
+      "quantity": "Pedri's xT P90",
+      "value_or_range": "0.16",
+      "unit": "",
+      "context": "In La Liga",
+      "source_ids": [
+        9
+      ]
+    },
+    {
+      "quantity": "Robert Lewandowski's npxG per 90 minutes",
+      "value_or_range": "0.85",
+      "unit": "",
+      "context": "In Barcelona",
+      "source_ids": [
+        9
+      ]
+    },
+    {
+      "quantity": "Robert Lewandowski's total goals",
+      "value_or_range": "21",
+      "unit": "goals",
+      "context": "In a season",
+      "source_ids": [
+        9
+      ]
+    }
+  ],
+  "realistic_ranges": [],
+  "constraints": [
+    {
+      "constraint": "Points can't be negative",
+      "why_it_matters": "",
+      "source_ids": [
+        2
+      ]
+    },
+    {
+      "constraint": "Each team must have 11 players",
+      "why_it_matters": "",
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "constraint": "Match duration is 90 minutes",
+      "why_it_matters": "",
+      "source_ids": [
+        3,
+        4
+      ]
+    }
+  ],
+  "question_worthy_scenarios": [
+    {
+      "scenario": "Calculating total points of a team given the number of wins and draws",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "scenario": "Finding how many more matches a team needs to win to reach a certain point",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "scenario": "Calculating the percentage of matches won given the total number of matches and victories",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "scenario": "Comparing the length and width of a football field",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "scenario": "Calculating how many matches a player has played in a season",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        4
+      ]
+    },
+    {
+      "scenario": "Calculating the distance of a penalty shot",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "scenario": "Determining the year of inaugural season of a league",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        6
+      ]
+    },
+    {
+      "scenario": "Finding the number of clubs under European Leagues",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "scenario": "Calculating total touchdowns for a team in a season",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        8
+      ]
+    },
+    {
+      "scenario": "Calculating player performance metrics such as xT, npxG, opxA",
+      "math_operations": [],
+      "usable_numbers_or_ranges": [],
+      "source_ids": [
+        9
+      ]
+    }
+  ],
+  "things_to_avoid": [],
+  "glossary": [
+    {
+      "term": "League",
+      "definition": "A competition between a group of teams, typically from the same country",
+      "source_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "term": "Champions League",
+      "definition": "A competition for top football teams across different European countries",
+      "source_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "term": "Europa League",
+      "definition": "A football competition for teams across Europe, often those not quite at the top of their domestic leagues",
+      "source_ids": [
+        1,
+        4
+      ]
+    },
+    {
+      "term": "UEFA",
+      "definition": "The governing body of football in Europe",
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "term": "Points",
+      "definition": "Score awarded to football teams for winning or drawing a match",
+      "source_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "term": "FIFA",
+      "definition": "Global governing body of football",
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "term": "Match",
+      "definition": "A football game normally lasting 90 minutes, divided into two halves",
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "term": "Goal",
+      "definition": "An instance of getting the ball into the opposing net, earning points",
+      "source_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "term": "Fixture",
+      "definition": "A schedule or list of matches to be played in a league or competition",
+      "source_ids": [
+        4
+      ]
+    },
+    {
+      "term": "Penalty Spot",
+      "definition": "The marked spot 12 yards from the goal line from which a penalty kick is taken",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "term": "Give and Go",
+      "definition": "When a player passes the ball to a teammate, who immediately one-touch passes the ball back",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "term": "Midfielder",
+      "definition": "The playing position for players that are responsible for linking play between attackers and defenders",
+      "source_ids": [
+        5
+      ]
+    },
+    {
+      "term": "European League of Football",
+      "definition": "A league commenced in 2021 that expands the sport further in Europe",
+      "source_ids": [
+        6
+      ]
+    },
+    {
+      "term": "European Leagues",
+      "definition": "An association representing over 1170 clubs from all over Europe",
+      "source_ids": [
+        7
+      ]
+    },
+    {
+      "term": "Touchdown",
+      "definition": "Term used in European League of Football for scoring a goal",
+      "source_ids": [
+        8
+      ]
+    },
+    {
+      "term": "xT P90",
+      "definition": "Expected Threat per 90 minutes, a measure of a player's impact based on their possession of the ball",
+      "source_ids": [
+        9
+      ]
+    },
+    {
+      "term": "npxG P90",
+      "definition": "Non-penalty Expected Goals per 90 minutes, estimates how many goals a player is expected to score excluding penalties",
+      "source_ids": [
+        9
+      ]
+    },
+    {
+      "term": "opxA P90",
+      "definition": "Open-play Expected Assists per 90 minutes, a measure of the quality of player's passing excluding set pieces",
+      "source_ids": [
+        9
+      ]
+    }
+  ]
+}

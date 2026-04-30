@@ -14,3 +14,4 @@ pydantic
 openai
 sentence-transformers
 posthog<6
+tavily
